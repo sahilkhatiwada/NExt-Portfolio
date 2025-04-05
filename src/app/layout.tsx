@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Alex Morgan - UI/UX Designer Portfolio",
+  title: "Sahil khatiwada - Portfolio",
   description: "Portfolio website showcasing UI/UX design work by Alex Morgan",
 };
 
